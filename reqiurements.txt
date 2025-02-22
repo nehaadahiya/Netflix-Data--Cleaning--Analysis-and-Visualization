@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+sckit_learn
+datetime
+sqlalchemy
+psycopg2
+tableau-api-lib
