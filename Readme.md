@@ -95,9 +95,9 @@ Featured Visuals (No CGI Required!):
 
 ### **📊 Must-Watch Dashboard Elements**
 
-📊 **Movies vs TV Shows** (Bar Chart – Who’s dominating?)  
+📊 **Movies vs TV Shows** (Area Chart – Who’s dominating?)  
 📈 **Content Trend Over the Years** (Line Graph – Binge-worthy insights!)  
-🌡 **Monthly Releases Heatmap** (Because timing is everything!)  
+🌡 **Monthly Releases Gantt Chart** (Because timing is everything!)  
 🍿 **Top 10 Genres & Ratings** (What’s Netflix investing in?)  
 🌎 **Top Countries Producing Netflix Content** (Where’s the magic happening?)
 
@@ -109,4 +109,4 @@ Featured Visuals (No CGI Required!):
 
 ## 📬 Contact – Let’s Talk Data!
 
-Have questions, ideas, or just want to geek out over Netflix data? Reach out! 🚀
+Have questions, or ideas, or just want to geek out over Netflix data? Reach out! 🚀
