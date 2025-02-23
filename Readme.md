@@ -1,3 +1,5 @@
+![Netflix Dashboard](/netflix_logo.jpg)
+
 # 🍿 Netflix Data Cleaning, Analysis & Visualization 🎬
 
 ## 📖 Story Time: "From Data Chaos to Streaming Gold" 🎭
